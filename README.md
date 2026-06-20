@@ -387,6 +387,18 @@ streamlit run app.py
 
 ---
 
+## 🚀 Screenshots
+
+Image Detection:
+
+<img width="1365" height="674" alt="Screenshot 2026-06-20 173816" src="https://github.com/user-attachments/assets/e5260b21-cf15-462a-94ba-62c768efa8dd" />
+
+
+Product name:
+
+<img width="1362" height="629" alt="Screenshot 2026-06-20 180818" src="https://github.com/user-attachments/assets/fe31a13c-e76b-4df2-9192-9b4b848b65f3" />
+
+
 # ⭐ If you found this project useful
 
 Please consider starring the repository.
